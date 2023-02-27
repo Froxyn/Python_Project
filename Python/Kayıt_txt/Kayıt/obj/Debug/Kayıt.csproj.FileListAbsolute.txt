@@ -1,0 +1,8 @@
+C:\Users\talha\Documents\SharpDevelop Projects\Kayıt\Kayıt\bin\Debug\Kayıt.exe.config
+C:\Users\talha\Documents\SharpDevelop Projects\Kayıt\Kayıt\bin\Debug\Kayıt.exe
+C:\Users\talha\Documents\SharpDevelop Projects\Kayıt\Kayıt\bin\Debug\Kayıt.pdb
+C:\Users\talha\Documents\SharpDevelop Projects\Kayıt\Kayıt\obj\Debug\Kayıt.csprojResolveAssemblyReference.cache
+C:\Users\talha\Documents\SharpDevelop Projects\Kayıt\Kayıt\obj\Debug\Kayıt.exe
+C:\Users\talha\Documents\SharpDevelop Projects\Kayıt\Kayıt\obj\Debug\Kayıt.pdb
+C:\Users\talha\Documents\SharpDevelop Projects\Kayıt\Kayıt\obj\Debug\Kayıt.MainForm.resources
+C:\Users\talha\Documents\SharpDevelop Projects\Kayıt\Kayıt\obj\Debug\Kayıt.csproj.GenerateResource.Cache
